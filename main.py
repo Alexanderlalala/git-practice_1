@@ -33,3 +33,4 @@ else:
     print("Invalid choice")
 
 print("Hello muchachos")
+print("Shaurma forever")
